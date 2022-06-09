@@ -1,0 +1,15 @@
+.box{
+    background-color: silver;
+    height: 300px;
+    width: 600px;
+    margin-left:200px;
+    margin-top: 120px;
+    box-shadow: -11px -32px 33px gold;   
+}
+
+li{
+    list-style: none;
+    margin-left: 200px;
+    border-left: solid red 5px;
+    padding-left: 10px;
+}
